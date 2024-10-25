@@ -1,5 +1,6 @@
 local anim8 = require 'anim8'
 require 'building'
+-- require calls the loader with a single argument, modname
 
 tileQuads = {} -- parts of the tileset used for different tiles
 
