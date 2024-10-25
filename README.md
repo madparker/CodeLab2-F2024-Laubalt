@@ -1,4 +1,4 @@
-# CodeLab2-F2024-Laubalt
+# CodeLab2-F2024-Luabalt
 
 This is a Lua Love port of Canabalt (or more in the spirit of Canabalt).
 
