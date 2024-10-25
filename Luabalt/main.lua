@@ -6,9 +6,9 @@ tileQuads = {} -- parts of the tileset used for different tiles
 
 local time = 0
 
-function love.load()
-  width = 600
-  height = 300
+function love.load() --Called once at the beginning - establish some variables/resources on the game load, so that they can be used repeatedly in other functions 
+  width = 600 -- instantiating width variable for window width
+  height = 300 -- instantiating height variable for window height
 
   love.window.setMode(width, height, {resizable=false})
   love.window.setTitle("Luabalt")
