@@ -1,7 +1,9 @@
 # CodeLab2-F2024-Laubalt
 
-Play Canabalt: ([(https://canabalt.com)
+This is a Lua Love port of Canabalt (or more in the spirit of Canabalt).
 
-[Source](https://pages.github.com/]([https://canabalt.com](https://canabalt.com](https://github.com/ericjohnson/canabalt-ios)
+Play Canabalt: https://canabalt.com
 
-[More about Canabalt]([https://pages.github.com/]([https://canabalt.com](https://canabalt.com](https://github.com/ericjohnson/canabalt-ios](https://en.wikipedia.org/wiki/Canabalt)
+Source: https://canabalt.com](https://canabalt.com](https://github.com/ericjohnson/canabalt-ios
+
+More about Canabalt: https://en.wikipedia.org/wiki/Canabalt
