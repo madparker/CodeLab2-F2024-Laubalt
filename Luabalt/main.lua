@@ -10,11 +10,13 @@ function love.load() --Called once at the beginning - establish some variables/r
   width = 600 -- instantiating width variable for window width
   height = 300 -- instantiating height variable for window height
 
-  love.window.setMode(width, height, {resizable=false})
-  love.window.setTitle("Luabalt")
+  love.window.setMode(width, height, {resizable=false}) -- setting the game window, cannot be resized
+  love.window.setTitle("Luabalt") -- Setting the title
 
   -- One meter is 32px in physics engine
   love.physics.setMeter(15)
+  -- 	Sets the meter scale factor.
+
   -- Create a world with standard gravity
   world = love.physics.newWorld(0, 9.81*15, true)
 
